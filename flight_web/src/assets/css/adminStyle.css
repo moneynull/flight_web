@@ -1,0 +1,37 @@
+#u1_label{
+  position: absolute;
+  width: 200px;
+}
+#u2_label{
+  position: relative;
+  left: 200px;
+  width: 600px;
+}
+#user_For{
+  position: relative;
+  width: 500px;
+}
+.item_first{
+  position: absolute;
+  width: 200px;
+}
+.item_second{
+  left: 200px;
+  position: relative;
+  width: 600px;
+}
+#a1_label{
+  position: absolute;
+  width: 200px;
+}
+#a2_label{
+  position: relative;
+  left: 200px;
+  width: 600px;
+}
+#airportButton{
+  position: relative;
+  text-align: left;
+  left: 15px;
+  height: 25px;
+}

@@ -1,0 +1,72 @@
+.heading{
+  position: absolute;
+  height:50px
+}
+.div_display{
+  display: -moz-box;
+  display: -webkit-box;
+  -moz-box-align: center;
+  -webkit-box-align: center;
+  -moz-box-pack: center;
+  -webkit-box-pack: center;
+}
+.icon{
+  cursor: pointer;
+}
+.bottom_button{
+  position: relative;
+  text-align: left;
+  top:200px;
+  height: 30px;
+}
+.default_panel{
+  position: relative;
+  top:150px;
+  width: 800px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+.default_label{
+  height: 25px;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: center;
+}
+.default_item{
+  height: 25px;
+  overflow: hidden;
+}
+.menu_bar{
+  position: absolute;
+  margin-top:100px;
+  width: 200px;
+  height: 40px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+.menu_box{
+  position: absolute;
+  width: 100px;
+  height: 40px;
+}
+.menu_box_select{
+  background-color: rgba(133,133,133,1);
+}
+table,td{
+  border: 0.8px solid #000000;
+  border-collapse: collapse;
+}
+thead{
+  font-size: 16px;
+  font-weight: bold;
+}
+table{
+  width: 800px;
+}
+tr{
+  text-align:left;
+  vertical-align: top;
+}

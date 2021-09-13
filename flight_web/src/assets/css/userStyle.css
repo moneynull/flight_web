@@ -1,0 +1,42 @@
+.search_bar{
+  position: absolute;
+  margin-top:100px;
+  width: 800px;
+  height: 80px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+.search_input{
+  height: 25px;
+  width: 200px;
+}
+.flight_panel{
+  position: relative;
+  top:200px;
+  width: 800px;
+}
+#input_bar{
+  position: relative;
+  top:10px;
+  height: 30px;
+}
+#search1{
+  position: absolute;
+  left: 10px;
+}
+#search2{
+  position: absolute;
+  left: 250px;
+}
+#search3{
+  position: absolute;
+  left: 500px;
+}
+#search_button{
+  position: relative;
+  top:20px;
+  text-align: left;
+  left: 10px;
+
+}
